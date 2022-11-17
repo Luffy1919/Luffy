@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<body>
+<h4>SIGN UP</h4>
+<input placeholder="Email">
+<input placeholder="Password">
+</body>
+</html>
